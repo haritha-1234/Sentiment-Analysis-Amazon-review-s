@@ -1,0 +1,7 @@
+ Environments
+.env
+.venv
+#data
+data/*.csv
+#python version
+.python-version
